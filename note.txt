@@ -1,0 +1,2 @@
+config driven ui
+-> different discount packages based on location is config driven ui.
