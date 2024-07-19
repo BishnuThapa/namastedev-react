@@ -72,3 +72,18 @@ font-size: 20px;
   color: white;
   cursor: pointer;
 }
+
+
+.shimmer-container{
+  display: flex;
+  flex-wrap: wrap;
+  /* justify-content: center;
+  align-items: center; */
+}
+.shimmer-card{
+  margin: 10px;
+  padding: 5px;
+  height: 200px;
+  width: 230px;
+  background-color: #F0F0F0;
+}
